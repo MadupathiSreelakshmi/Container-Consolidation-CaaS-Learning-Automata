@@ -62,31 +62,23 @@ The proposed model evaluates system performance using:
 
 ---
 
-## 📷 Project Screenshots
-
-### System Architecture
-
-(Add architecture image here)
-
-### Result Analysis
-
-(Add result graph here)
-
----
-
 ## 📁 Repository Structure
 
 ```bash
 /paper
 /documentation
 /presentation
-/screenshots
+
+```
 
 🔮 Future Scope
 Integration with real-time cloud platforms
 Advanced AI-based scheduling models
 Kubernetes-based deployment
 Improved energy-efficient resource allocation
+
+--- 
+
 📝 Note
 
 This repository contains academic research work, project documentation, presentation materials, and analysis related to container consolidation in cloud computing environments.
